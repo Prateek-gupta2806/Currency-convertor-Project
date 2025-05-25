@@ -1,0 +1,8 @@
+    <select name="from">
+                            <option value = "USD">USD</option>
+                            <option Value = "INR" Selected>INR</option>
+                            <option value = "EUR">EUR</option>
+                            <option Value = "AUD">AUD</option>
+                        </select>
+
+Styling for India to be selected 
